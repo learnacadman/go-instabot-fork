@@ -3,8 +3,8 @@ module github.com/tducasse/go-instabot
 go 1.17
 
 require (
-	github.com/ahmdrz/goinsta/v2 v2.4.5
-	github.com/spf13/viper v1.10.1
+	github.com/Davincible/goinsta/v3 v3.2.6
+	github.com/spf13/viper v1.14.0
 )
 
 require (
