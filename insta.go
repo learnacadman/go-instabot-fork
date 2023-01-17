@@ -12,7 +12,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ahmdrz/goinsta/v2"
+	"github.com/Davincible/goinsta/v3"
 	"github.com/spf13/viper"
 )
 
