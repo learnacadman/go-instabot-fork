@@ -1,4 +1,4 @@
-module github.com/learnacadman/go-instabot-fork
+module github.com/learnacadman/go-instabot-fork2
 
 go 1.17
 
